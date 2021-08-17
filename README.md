@@ -1,6 +1,6 @@
 ### Hi I'm Fackin! 👋
 
-- 💻、I'm a Web Frontend developer
+- 💻、I'm a Web Frontend Developer
 
 <!--
 **Fackin/Fackin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
